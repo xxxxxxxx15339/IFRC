@@ -1,7 +1,7 @@
 # IFRC Feedback Form Auto-Filler
 
 ## Overview
-This project automates the process of filling out the IFRC (International Federation of Red Cross and Red Crescent Societies) feedback form at [https://ee.ifrc.org/x/5x6PxyDj](https://ee.ifrc.org/x/5x6PxyDj). It is designed to help with rapid, randomized data entry for testing or demonstration purposes, using only real data provided in `script.js`.
+This project automates the process of filling out the IFRC (International Federation of Red Cross and Red Crescent Societies) feedback form at [https://ee.ifrc.org/x/5x6PxyDj](https://ee.ifrc.org/x/5x6PxyDj). It is designed to help with rapid, randomized data entry for testing or demonstration purposes, using only real data provided in `data.js`.
 
 ## Features
 - **Automated Form Filling:** Fills all required fields in the IFRC feedback form, including dynamic fields (commune and village).
@@ -34,7 +34,7 @@ This project automates the process of filling out the IFRC (International Federa
    - You have 5 seconds to review and submit each time before the page reloads for the next try (up to 50 times).
 
 ## Credits
-- Data and logic provided by the user in `script.js`.
+- Data and logic provided by the user in `data.js`.
 - Automation logic and event handling in `TaperMonkeyScript.js`.
 
 ---
