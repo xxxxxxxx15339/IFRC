@@ -39,5 +39,3 @@ pip install openpyxl
 ## Future Automation
 This project is ready to be extended for web automation (e.g., filling out web forms using the cleaned Excel data). See `script.py` for where to add Selenium or other automation code.
 
-## License
-MIT
