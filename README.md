@@ -5,7 +5,6 @@ These scripts were developed as part of an internship at **IFRC Marrakech** (Int
 ## Project Context
 During my internship at IFRC Marrakech, I observed that staff spent significant time manually processing large and messy datasets. These scripts were created to:
 - **Automate normalization and deduplication** of data (with fuzzy matching and user confirmation)
-- **Assign unique IDs** to entries where needed
 - **Output clean, sorted files** ready for further analysis or integration
 
 ## Impact
